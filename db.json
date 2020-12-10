@@ -1,81 +1,34 @@
 {
-    "users" : [
+    "response": [
         {
             "id": 1,
-            "nama": "afif",
-            "alamat": "Pekalongan",
-            "umur": 24,
-            "nohp": "0857412312312"
-        },
-        {
-            "id": 2,
-            "nama": "bagus",
-            "alamat": "Jakarta",
-            "umur": 22,
-            "nohp": "0838412312312"
-        },
-        {
-            "id": 3,
-            "nama": "hendro",
-            "alamat": "Ngawi",
-            "umur": 23,
-            "nohp": "08574195842312"
-        },
-        {
-            "id": 4,
-            "nama": "hadi",
-            "alamat": "Palu",
-            "umur": 21,
-            "nohp": "08574195842312"
-        },
-        {
-            "id": 5,
-            "nama": "esti",
-            "alamat": "Lampung",
-            "umur": 24,
-            "nohp": "08574195842312"
-        },
-        {
-            "id": 6,
-            "nama": "yayan",
-            "alamat": "Groboga",
-            "umur": 21,
-            "nohp": "08574295842312"
-        },
-        {
-            "id": 7,
-            "nama": "raisa",
-            "alamat": "Malang",
-            "umur": 23,
-            "nohp": "08574195842312"
-        },
-        {
-            "id": 8,
-            "nama": "gatra",
-            "alamat": "Solo",
-            "umur": 23,
-            "nohp": "08574195842312"
-        },
-        {
-            "id": 9,
-            "nama": "bambang",
-            "alamat": "Salatiga",
-            "umur": 23,
-            "nohp": "08574195842312"
-        },
-        {
-            "id": 10,
-            "nama": "Budi",
-            "alamat": "Kediri",
-            "umur": 27,
-            "nohp": "08574195842312"
-        },
-        {
-            "id": 11,
-            "nama": "dedi",
-            "alamat": "Aceh",
-            "umur": 25,
-            "nohp": "08574195842312"
+            "author": {
+                "id": 1,
+                "name": "Rizal",
+                "username": "rzl",
+                "gender": "",
+                "birthdate": "",
+                "address": "",
+                "job": "",
+                "phone": "",
+                "email": "rzl@coba.com",
+                "password": "aassdd",
+                "picture": "",
+                "is_accepted": "",
+                "email_verified": false,
+                "created_at": "2020-12-09T09:47:36+07:00",
+                "updated_at": "2020-12-09T09:47:36+07:00"
+            },
+            "author_id": 1,
+            "link": "RKT-DMO",
+            "proyek": "REG. JUNCTION",
+            "merk": "CORNING",
+            "tahun": "2002/2003",
+            "kabel": "KD SM-G.655",
+            "panjang": "7, 500",
+            "created_at": "2020-12-09T09:58:06+07:00",
+            "updated_at": "2020-12-09T09:58:06+07:00"
         }
-      ]
+    ],
+    "status": 200
 }
