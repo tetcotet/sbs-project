@@ -1,24 +1,7 @@
 {
     "response": [
         {
-            "id": 1,
-            "author": {
-                "id": 1,
-                "name": "Rizal",
-                "username": "rzl",
-                "gender": "",
-                "birthdate": "",
-                "address": "",
-                "job": "",
-                "phone": "",
-                "email": "rzl@coba.com",
-                "password": "aassdd",
-                "picture": "",
-                "is_accepted": "",
-                "email_verified": false,
-                "created_at": "2020-12-09T09:47:36+07:00",
-                "updated_at": "2020-12-09T09:47:36+07:00"
-            },
+            "id": 1,            
             "author_id": 1,
             "link": "RKT-DMO",
             "proyek": "REG. JUNCTION",
@@ -30,24 +13,7 @@
             "updated_at": "2020-12-09T09:58:06+07:00"
         },
         {
-            "id": 2,
-            "author": {
-                "id": 1,
-                "name": "Rizal",
-                "username": "rzl",
-                "gender": "",
-                "birthdate": "",
-                "address": "",
-                "job": "",
-                "phone": "",
-                "email": "rzl@coba.com",
-                "password": "aassdd",
-                "picture": "",
-                "is_accepted": "",
-                "email_verified": false,
-                "created_at": "2020-12-09T09:47:36+07:00",
-                "updated_at": "2020-12-09T09:47:36+07:00"
-            },
+            "id": 2,            
             "author_id": 1,
             "link": "SDFG-SDFG",
             "proyek": "SDFGS",
