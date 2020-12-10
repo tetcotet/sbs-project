@@ -3,7 +3,7 @@
         {
             "id": 1,            
             "author_id": 1,
-            "link": "RKT-DMO",
+            "jalur": "RKT-DMO",
             "proyek": "REG. JUNCTION",
             "merk": "CORNING",
             "tahun": "2002/2003",
@@ -15,7 +15,7 @@
         {
             "id": 2,            
             "author_id": 1,
-            "link": "RKT-DMO",
+            "jalur": "RKT-DMO",
             "proyek": "SADVASDV",
             "merk": "DSAFASD",
             "tahun": "2002/2003",
