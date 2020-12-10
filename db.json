@@ -28,6 +28,35 @@
             "panjang": "7, 500",
             "created_at": "2020-12-09T09:58:06+07:00",
             "updated_at": "2020-12-09T09:58:06+07:00"
+        },
+        {
+            "id": 2,
+            "author": {
+                "id": 1,
+                "name": "Rizal",
+                "username": "rzl",
+                "gender": "",
+                "birthdate": "",
+                "address": "",
+                "job": "",
+                "phone": "",
+                "email": "rzl@coba.com",
+                "password": "aassdd",
+                "picture": "",
+                "is_accepted": "",
+                "email_verified": false,
+                "created_at": "2020-12-09T09:47:36+07:00",
+                "updated_at": "2020-12-09T09:47:36+07:00"
+            },
+            "author_id": 1,
+            "link": "SDFG-SDFG",
+            "proyek": "SDFGS",
+            "merk": "SDSG",
+            "tahun": "2002/2003",
+            "kabel": "SDGS SM-G.655",
+            "panjang": "7, 500",
+            "created_at": "2020-12-09T09:58:06+07:00",
+            "updated_at": "2020-12-09T09:58:06+07:00"
         }
     ],
     "status": 200
